@@ -13,7 +13,7 @@
 <body>
   
  <div class="container">
-   <h1 class="text-left">Reconhecimento Facial</h1>
+   <h1 class="text-left">Captura de Foto</h1>
 
     <form method="POST" action="storeImage.php">
         <div class="row"> 
